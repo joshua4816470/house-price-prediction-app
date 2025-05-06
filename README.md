@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **House Price Predictor** is a web application designed to estimate house prices in the Indian real estate market. It uses a Scikit-learn regression model trained on real-world data and offers a clean, interactive UI powered by Streamlit.
+The **House Price Predictor** is a web application designed to estimate house prices in the Indian real estate market. It uses a Scikit-learn regression model trained on real-world data and offers a clean, interactive UI powered by Streamlit. 
 
 ## Features
 
